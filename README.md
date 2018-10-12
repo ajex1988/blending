@@ -49,4 +49,4 @@ bin/mvc_blender_demo
 Click [here](http://cg.cs.tsinghua.edu.cn/blending/files/resources.zip) to download the resources file.
 It contains orignal images to be stitched, a PTStitcher script file generate by PTGui tool, and the mask images generate by seam finder demo program. 
 
-You should unzip the file to resources folder to run the demo programs under */src/examples*.
+You should unzip the file to */resources/* folder to run the demo programs under */src/examples*.
